@@ -2,6 +2,9 @@
 **/Flutter/ephemeral/
 **/Pods/
 
+# Android-related
+*.env
+
 # Xcode-related
 **/dgph
 **/xcuserdata/

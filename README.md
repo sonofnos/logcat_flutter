@@ -45,8 +45,10 @@ This project is a starting point for a Flutter application.
 
 ### Running the App
 
-1. Connect your Android device or start an emulator.
-2. Run the app:
+1. .env is required to house the serverURL, and the encrpytion keys. You can create yours or request via here :
+<https://drive.google.com/drive/folders/1HSQ0Cxj01ikb9FjQpxr1Uc3AYJyySXfu?usp=sharing>
+2. Connect your Android device or start an emulator.
+3. Run the app:
 
     ```sh
     flutter run
